@@ -27,7 +27,7 @@ partial class Program
         // Filter timezones: check for spelling errors, invalid timezones etc etc
         foreach (string abbreviation in timezones)
         {
-            if (TimeMatcherTimezoneUtilities.TryResolveTimezone(abbreviation, out TimezoneTarget timezone))
+            if (TimezoneUtilities.TryResolveTimezone(abbreviation, out TimezoneTarget timezone))
             {
                 timezoneTargets.Add(timezone);
             }
