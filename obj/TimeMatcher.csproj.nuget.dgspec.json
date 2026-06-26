@@ -1,29 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jose Berma\\Downloads\\TimeMatcher\\TimeMatcher.csproj": {}
+    "C:\\Users\\joseb\\Downloads\\TimezoneMatcher\\TimeMatcher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jose Berma\\Downloads\\TimeMatcher\\TimeMatcher.csproj": {
+    "C:\\Users\\joseb\\Downloads\\TimezoneMatcher\\TimeMatcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose Berma\\Downloads\\TimeMatcher\\TimeMatcher.csproj",
+        "projectUniqueName": "C:\\Users\\joseb\\Downloads\\TimezoneMatcher\\TimeMatcher.csproj",
         "projectName": "TimeMatcher",
-        "projectPath": "C:\\Users\\Jose Berma\\Downloads\\TimeMatcher\\TimeMatcher.csproj",
-        "packagesPath": "C:\\Users\\Jose Berma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose Berma\\Downloads\\TimeMatcher\\obj\\",
+        "projectPath": "C:\\Users\\joseb\\Downloads\\TimezoneMatcher\\TimeMatcher.csproj",
+        "packagesPath": "C:\\Users\\joseb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joseb\\Downloads\\TimezoneMatcher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jose Berma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+          "C:\\Users\\joseb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -63,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

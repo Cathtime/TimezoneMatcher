@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeMatcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df6254d3eafca4f67c9a89faea644eb8b85254d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac300e79a51d631529967e72783f5bb06c2de830")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimeMatcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeMatcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

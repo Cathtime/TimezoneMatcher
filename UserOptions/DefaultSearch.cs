@@ -21,7 +21,7 @@ public static class DefaultSearch
 
             foreach (TimezoneTarget timezone in timezoneList)
             {
-                DateTime localTime = TimeMatcherTimezoneUtilities.ConvertFromUtc(candidateUtc, timezone);
+                DateTime localTime = TimezoneUtilities.ConvertFromUtc(candidateUtc, timezone);
                 localTimes.Add(localTime);
 
                 if (localTime.Hour < 7)
